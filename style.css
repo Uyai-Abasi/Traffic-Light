@@ -1,18 +1,18 @@
-*{
+/* *{
     padding: 0;
     margin: 0;
     align-content: center;
 }
 
-/* h1{border: solid red 50px;
+ h1{border: solid red 50px;
 box-sizing: border-box;
 background-color: blue;
 color: white;
 font-family: sans-serif;
-} */
+}
 
 div{
-    /* border : solid black; */
+    border : solid black;
     width: 300px;
     margin: auto;
     display: flex;
@@ -25,7 +25,7 @@ label{
     background-color:black;
     flex-direction: column;
     align-items: center;
-    /* justify-content: center; */
+    
 margin: 50px auto;
 padding: 20px;
 border-radius: 90px;
@@ -33,7 +33,7 @@ border-radius: 90px;
 .ball-1{
     background-color: red;
     box-shadow: 0.5px 5px 30px red;
-    /* border: solid maroon; */
+    border: solid maroon;
     height: 100px;
     width: 100px;
     border-radius: 200px;
@@ -51,7 +51,7 @@ border-radius: 90px;
 }
 
 .ball-3{
-    /* border: solid grey; */
+    border: solid grey;
     background-color: green;
     box-shadow: 0.5px 5px 30px green;
     height: 100px;
@@ -71,4 +71,4 @@ border-top: none;
 right: 1px;
     top: -51px;
 
-}
+} */
